@@ -1,5 +1,5 @@
 ---
-topic: HTML Hello World(Azure)
+topic: HTML Hello World
 languages:
   - HTML
 products:
